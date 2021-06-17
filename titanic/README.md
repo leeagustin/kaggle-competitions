@@ -1,5 +1,8 @@
-Competition URL: https://www.kaggle.com/c/titanic
+# Titanic Competition
 
-1) Preprocessing: preprocessing/*.ipynb
-2) Training: models/*.ipynb
-3) Submissions: submissions/*.csv
+0) Datasets: `data/*.csv`
+1) Preprocessing: `preprocessing/*.ipynb`
+2) Training: `models/*.ipynb`
+
+
+Competition URL: https://www.kaggle.com/c/titanic
